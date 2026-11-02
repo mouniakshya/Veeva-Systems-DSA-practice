@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/mouniakshya/Veeva-Systems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/mouniakshya/Veeva-Systems/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/mouniakshya/Veeva-Systems/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/mouniakshya/Veeva-Systems/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0507-perfect-number) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mouniakshya/Veeva-Systems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/mouniakshya/Veeva-Systems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/mouniakshya/Veeva-Systems/tree/master/0500-keyboard-row) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/mouniakshya/Veeva-Systems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/mouniakshya/Veeva-Systems/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0977-squares-of-a-sorted-array) |
