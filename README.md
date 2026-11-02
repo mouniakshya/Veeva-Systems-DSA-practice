@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/1137-n-th-tribonacci-number) |
+| [1323-maximum-69-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mouniakshya/Veeva-Systems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/mouniakshya/Veeva-Systems/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/mouniakshya/Veeva-Systems/tree/master/0860-lemonade-change) |
+| [1323-maximum-69-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mouniakshya/Veeva-Systems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mouniakshya/Veeva-Systems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
