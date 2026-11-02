@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mouniakshya/Veeva-Systems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/mouniakshya/Veeva-Systems/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/mouniakshya/Veeva-Systems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0682-baseball-game) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/mouniakshya/Veeva-Systems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/mouniakshya/Veeva-Systems/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/mouniakshya/Veeva-Systems/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/mouniakshya/Veeva-Systems/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/1903-largest-odd-number-in-string) |
