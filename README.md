@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/mouniakshya/Veeva-Systems/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3099-harshad-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/3099-harshad-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mouniakshya/Veeva-Systems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mouniakshya/Veeva-Systems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2974-minimum-number-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mouniakshya/Veeva-Systems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mouniakshya/Veeva-Systems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mouniakshya/Veeva-Systems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
