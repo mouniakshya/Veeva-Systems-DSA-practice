@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/mouniakshya/Veeva-Systems/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/mouniakshya/Veeva-Systems/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mouniakshya/Veeva-Systems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/mouniakshya/Veeva-Systems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/mouniakshya/Veeva-Systems/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mouniakshya/Veeva-Systems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2974-minimum-number-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mouniakshya/Veeva-Systems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mouniakshya/Veeva-Systems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -609,4 +611,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/mouniakshya/Veeva-Systems/tree/master/0561-array-partition) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
