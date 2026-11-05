@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/mouniakshya/Veeva-Systems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/mouniakshya/Veeva-Systems/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mouniakshya/Veeva-Systems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/mouniakshya/Veeva-Systems/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/mouniakshya/Veeva-Systems/tree/master/0504-base-7) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/mouniakshya/Veeva-Systems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mouniakshya/Veeva-Systems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/mouniakshya/Veeva-Systems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/mouniakshya/Veeva-Systems/tree/master/0485-max-consecutive-ones) |
