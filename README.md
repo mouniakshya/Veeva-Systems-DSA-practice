@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mouniakshya/Veeva-Systems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mouniakshya/Veeva-Systems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/mouniakshya/Veeva-Systems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/mouniakshya/Veeva-Systems/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mouniakshya/Veeva-Systems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mouniakshya/Veeva-Systems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mouniakshya/Veeva-Systems/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mouniakshya/Veeva-Systems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mouniakshya/Veeva-Systems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/mouniakshya/Veeva-Systems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/mouniakshya/Veeva-Systems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2974-minimum-number-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/2974-minimum-number-game) |
