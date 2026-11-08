@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/mouniakshya/Veeva-Systems/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mouniakshya/Veeva-Systems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2974-minimum-number-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mouniakshya/Veeva-Systems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mouniakshya/Veeva-Systems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mouniakshya/Veeva-Systems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
@@ -546,11 +548,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/mouniakshya/Veeva-Systems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/mouniakshya/Veeva-Systems/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mouniakshya/Veeva-Systems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Brainteaser
 |  |
