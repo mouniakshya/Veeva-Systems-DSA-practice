@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mouniakshya/Veeva-Systems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mouniakshya/Veeva-Systems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3903-smallest-stable-index-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0930-binary-subarrays-with-sum) |
 | [1732-find-the-highest-altitude](https://github.com/mouniakshya/Veeva-Systems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/mouniakshya/Veeva-Systems/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/3903-smallest-stable-index-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
