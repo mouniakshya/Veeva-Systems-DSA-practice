@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mouniakshya/Veeva-Systems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/0349-intersection-of-two-arrays) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/mouniakshya/Veeva-Systems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mouniakshya/Veeva-Systems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0414-third-maximum-number) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mouniakshya/Veeva-Systems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mouniakshya/Veeva-Systems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mouniakshya/Veeva-Systems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/mouniakshya/Veeva-Systems/tree/master/0441-arranging-coins) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/mouniakshya/Veeva-Systems/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0523-continuous-subarray-sum) |
 ## Greedy
 |  |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mouniakshya/Veeva-Systems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/mouniakshya/Veeva-Systems/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/mouniakshya/Veeva-Systems/tree/master/2351-first-letter-to-appear-twice) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -590,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/0287-find-the-duplicate-number) |
 ## Minimax
 |  |
 | ------- |
