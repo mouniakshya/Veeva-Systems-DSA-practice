@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/mouniakshya/Veeva-Systems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mouniakshya/Veeva-Systems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mouniakshya/Veeva-Systems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2974-minimum-number-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/mouniakshya/Veeva-Systems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mouniakshya/Veeva-Systems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mouniakshya/Veeva-Systems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mouniakshya/Veeva-Systems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mouniakshya/Veeva-Systems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/mouniakshya/Veeva-Systems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/mouniakshya/Veeva-Systems/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/mouniakshya/Veeva-Systems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/3903-smallest-stable-index-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
