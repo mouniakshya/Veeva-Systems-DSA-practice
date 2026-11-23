@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/mouniakshya/Veeva-Systems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/mouniakshya/Veeva-Systems/tree/master/2119-a-number-after-a-double-reversal) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/mouniakshya/Veeva-Systems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1668-maximum-repeating-substring](https://github.com/mouniakshya/Veeva-Systems/tree/master/1668-maximum-repeating-substring) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Manacher
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/mouniakshya/Veeva-Systems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/mouniakshya/Veeva-Systems/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/mouniakshya/Veeva-Systems/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/mouniakshya/Veeva-Systems/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/mouniakshya/Veeva-Systems/tree/master/1732-find-the-highest-altitude) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/mouniakshya/Veeva-Systems/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/mouniakshya/Veeva-Systems/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mouniakshya/Veeva-Systems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/mouniakshya/Veeva-Systems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/mouniakshya/Veeva-Systems/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/mouniakshya/Veeva-Systems/tree/master/3903-smallest-stable-index-i) |
